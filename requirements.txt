@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+ccxt
+streamlit
+xrpl-py
